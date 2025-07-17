@@ -68,4 +68,4 @@ Se sugiere complementar esta decisión con un análisis financiero más profundo
 
 ## 👤 Autor
 
-Proyecto realizado por [Tu Nombre Aquí], como parte del Challenge de Análisis de Datos de Alura Latam.
+Proyecto realizado por Frank Teheran, como parte del Challenge de Análisis de Datos de Alura Latam.
